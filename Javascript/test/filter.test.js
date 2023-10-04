@@ -15,6 +15,7 @@ describe("Filter function", () => {
     
     test("it should filter by a search term (url)", () => {
 
+        // should show [{id: number, url: string}, ....        
         const output = [{ id: 1, url: "https://www.url1.dev" }, { id: 2, url: "https://www.url2.dev" }];
 
         expect(filterByTerm(input, "uRL")).toEqual(output);

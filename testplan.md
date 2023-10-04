@@ -1,31 +1,30 @@
 # Languages
 
-* [ ] Java  
-* [ ] Kotlin  
-* [ ] Go  
-* [ ] Python  
-* [ ] PHP  
-* [ ] JavaScript  
-* [-] C++   
-* [-] C#  
-* [-] Rust  
+* [x] Java
+* [x] Kotlin  
+* [x] Go  
+* [x] Python  
+* [x] PHP  
+* [x] JavaScript  
+* [ ] C++   
+* [ ] C#  
+* [x] Rust
 
 # Scenarios
 
-* [ ] Basic Usage: a function or method with multiple parameters  
-* [ ] Multiple Functions  
-* [ ] Overloaded Functions  
+* [x] Basic Usage: a function or method with multiple parameters
+* [x] Multiple Functions
+* [x] Overloaded Functions
 * [ ] Advanced cases  
-  * [ ] Test default parameter values    
-  * [ ] Test varargs    
+  * [x] Test default parameter values
+  * [x] Test varargs
   * [ ] Test lambda expressions and functional interfaces    
-  * [ ] Test scenarios where the variable type can be inferred    
-  * [ ] Complex data types (e.g., dictionaries, sets, custom objects)    
-  * [ ] Edge cases    
+  * [x] Test scenarios where the variable type can be inferred
+  * [x] Complex data types (e.g., dictionaries, sets, custom objects)
   * [ ] Extremely long function or variable names    
 
 
 # Integration tests
 
-* [ ] Performance  
+* [x] Performance
 * [ ] Inlays in Diff, w/ Completion popup, inspections  
