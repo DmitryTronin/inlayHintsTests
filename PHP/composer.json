@@ -1,0 +1,14 @@
+{
+    "name": "dmitry.tronin/php",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Static Newman",
+            "email": "sn@dev.null"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require-dev": {
+        "phpunit/phpunit": "^10.4@dev"
+    }
+}
