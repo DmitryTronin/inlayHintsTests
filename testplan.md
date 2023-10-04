@@ -18,10 +18,11 @@
 * [ ] Advanced cases  
   * [x] Test default parameter values
   * [x] Test varargs
-  * [ ] Test lambda expressions and functional interfaces    
+  * [ ] Test lambda expressions - failures for Java
+  * [x] Test functional interfaces - not shown by default
   * [x] Test scenarios where the variable type can be inferred
   * [x] Complex data types (e.g., dictionaries, sets, custom objects)
-  * [ ] Extremely long function or variable names    
+  * [x] Extremely long function or variable names    
 
 
 # Integration tests

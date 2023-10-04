@@ -1,5 +1,5 @@
 public class Example {
-    public void exampleMethod(String name, int age) {
+    public void exampleMethod(String firstName, int age) {
         // ...
     }
 
