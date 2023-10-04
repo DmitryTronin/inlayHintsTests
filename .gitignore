@@ -8,7 +8,12 @@ build
 # Added by cargo
 
 /target
+
+# ignore PHP garbage
 PHP/vendor/*
 PHP/.idea/*
 /.idea/*
 rust/target/*
+
+Java/.idea
+Java/.gradle
