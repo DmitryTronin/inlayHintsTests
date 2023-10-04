@@ -28,4 +28,4 @@
 # Integration tests
 
 * [x] Performance
-* [ ] Inlays in Diff, w/ Completion popup, inspections  
+* [ ] Inlays in Diff - not shown, w/ Completion popup, inspections  
